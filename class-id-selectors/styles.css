@@ -1,9 +1,9 @@
 /* Add CSS Styling */
-.odd.third {
-    background-color: hsl(314, 49%, 90%);
+.odd {
+    background-color: hsl(315, 42%, 74%);
     font-family: Verdana, Dejavu Sans, sans-serif;
 }
-.two {
+#two {
     color: blue;
     font-size: 36px;
 }
@@ -11,5 +11,7 @@
     font-size: 24px;
 }
 .four {
-    background-color: hsl(145, 61%, 80%);
+    background-color: hsl(141, 47%, 57%);
+    font-size: 24px;
+    font-weight: bold;
 }
